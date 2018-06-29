@@ -19,4 +19,10 @@ $ npm start
 $ npm run generate
 ```
 
+## Project init
+```
+$ npm install create-nuxt-app --global
+$ create-nuxt-app
+```
+
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
